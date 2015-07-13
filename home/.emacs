@@ -62,6 +62,3 @@
 
 (fset 'hi-bbc
    "\C-[xhi-l\C-im\C-i\C-m\C-xwh/OAM/BBC\C-mhi-red-b\C-m\C-[xhi-l\C-im\C-i\C-m\C-[xhi-l\C-im\C-i\C-m\C-xwh/OAM/BBC\C-mhi-red-b\C-m\C-xwh\\(\\(INF\\)\\|\\(WRN\\)\\|\\(ERR\\)\\)/OAM/BBC, BBCServices.*\C-mhi-black-b\C-m\C-xwh\C-[p\C-[f\C-[f\C-[f\C-[f\C-[f\C-[f\C-[\C-?R.ASICService\C-mhi-black-b\C-m\C-xwh/HWA/\\(\\(OPTS\\)\\|\\(SUM\\)\\)\C-mhi-blue-b\C-m\C-xwhOIC4\C-mhi-blue-b\C-m\C-xwhOIC5\C-mhi-green-b\C-m")
-
-(fset 'hi-bbc-2
-   "\C-[xhi-l\C-im\C-i\C-m\C-xwh/OAM/BBC\C-mhi-red-b\C-m\C-[xhi-l\C-im\C-i\C-m\C-[xhi-l\C-im\C-i\C-m\C-xwh/OAM/BBC\C-mhi-red-b\C-m\C-xwh\\(\\(INF\\)\\|\\(WRN\\)\\|\\(ERR\\)\\)/OAM/BBC, BBCServices.*\C-mhi-black-b\C-m\C-xwh\C-[p\C-[f\C-[f\C-[f\C-[f\C-[f\C-[f\C-[\C-?R.ASICService\C-mhi-black-b\C-m\C-xwh/HWA/OPTS\C-[b\C-[b\C-[b\\(\C-e\\)\\|\\(/HWA/SUM\\)\C-mhi-blue-b\C-m\C-xwhOIC4\C-mhi-blue-b\C-m\C-xwhOIC5\C-mhi-green-b\C-m")
